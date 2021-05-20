@@ -1,6 +1,7 @@
 package accesodatos3;
 // Generated 22-ene-2019 17:11:15 by Hibernate Tools 4.3.1
 
+// Añado un nuevo comentario para modificar el proyecto esta vez en otro fichero
 
 import java.util.Date;
 import java.util.HashSet;
